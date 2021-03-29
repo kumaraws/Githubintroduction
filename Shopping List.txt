@@ -8,3 +8,9 @@ Suzuki
 Mahindra
 BMW
 Benz Mercedes
+Vehicle Manufacturers
+TATA
+MAN
+VOLVO
+DAEWOO
+ASHOK
